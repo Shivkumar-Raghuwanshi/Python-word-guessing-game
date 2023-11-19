@@ -35,6 +35,7 @@ def play_word_guessing_game():
    
 
     word = choice(countries)
+    
 
     guesses = ''
     attempts = 12
